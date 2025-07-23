@@ -1,0 +1,61 @@
+ function Students(name, email, age, grade ){
+this.name = name;
+this.email = email;
+this.age = age;
+this.grade= grade;
+}
+
+var stdDetails = [
+    new Students("minahil", "duashaikh603@gmail.com", 9 ,2),
+    new Students("Maham", "maha@gmail.com", 11 ,4),
+    new Students("iqra", "irqa@gmail.com", 22 ,11),
+    new Students("rida", "rida@gmail.com", 12, 6),
+    new Students("sajjad","sajjad@gmail.com",10,5),
+    new Students("fiza","fiza@gmail.com",11,5),
+    new Students("sawera","sawera@gmail.com",15,7),
+    new Students("jannat","jannat@gmail.com",14,6),
+    new Students("afzal","afzal@gmail.com",17,7),
+    new Students("tehmeena","tehmeena@gmail.com",10,4),
+    new Students("sonia","sonia@gmail.com",16, 9),
+    new Students("nida","nida@gmial.com",12,5),
+    new Students("jhangheer", "jhangheer@gmail.com", 9 ,2),
+    new Students("mahi", "mahi@gmail.com", 11 ,4),
+    new Students("aniya", "aniya@gmail.com", 22 ,11),
+    new Students("asif", "asif@gmail.com", 12, 6),
+    new Students("aina","aina@gmail.com",10,5),
+    new Students("samar","samar@gmail.com",11,5),
+    new Students("amal","amal@gmail.com",15,7),
+    new Students("ayisha","ayish@gmail.com",14,6),
+    new Students("fayaz","fayaz@gmail.com",17,7),
+    new Students("raha","tehmee@gmail.com",10,4),
+    new Students("rabya","rabya@gmail.com",16, 9),
+    new Students("riya","riya@gmial.com",13,5),
+    new Students("anaya", "anaya@gmail.com", 9 ,2),
+    new Students("amaira", "amaira@gmail.com", 11 ,4),
+    new Students("jafar", "jafar@gmail.com", 22 ,11),
+    new Students("rafia", "rafia@gmail.com", 12, 6),
+    new Students("daniyal","daniyal@gmail.com",10,5),
+    new Students("erum","erum@gmail.com",11,5),
+    new Students("arisha","arisha@gmail.com",15,7),
+    new Students("sania","sania@gmail.com",14,6),
+    new Students("faika","faika@gmail.com",17,7),
+    new Students("faria","faria@gmail.com",10,4),
+    new Students("owais","owais@gmail.com",16, 9),
+    new Students("fatima","fatima@gmial.com",12,5),
+     new Students("jawairya", "jawairiya@gmail.com", 9 ,2),
+    new Students("sidra", "sidra@gmail.com", 11 ,4),
+    new Students("yaseen", "yaseen@gmail.com", 22 ,11),
+    new Students("naimat", "naimat@gmail.com", 12, 6),
+    new Students("saddaf","saddaf@gmail.com",10,5),
+    new Students("ayub","ayub@gmail.com",11,5),
+    new Students("asiya","asiya@gmail.com",15,7),
+    new Students("rizwana","rizwana@gmail.com",14,6),
+    new Students("rizwan","rizwan@gmail.com",17,7),
+    new Students("yameen","yameen@gmail.com",10,4),
+    new Students("yosuf","yosuf@gmail.com",16, 9),
+    new Students("shoqat","shoqat@gmial.com",12,5),
+    new Students("islaman", "islaman@gmail.com", 9 ,2),
+    new Students("maria", "maria@gmail.com", 11 ,4),
+   
+]
+console.log(stdDetails);
